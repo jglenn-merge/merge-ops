@@ -1,6 +1,6 @@
 # MergeOps
 
-MergeOps is a PowerShell module of operational utilities for teams that build and run web platforms on Windows. It covers web diagnostics, connectivity checks, IIS, Windows Server maintenance, release folders, Sitecore deploy cleanup, .NET project maintenance, and GitHub organization administration.
+MergeOps is a PowerShell module of operational utilities for teams that build and run web platforms on Windows. It covers web diagnostics, connectivity checks, IIS, Windows Server maintenance, release folders, Sitecore deploy cleanup, .NET project maintenance, and GitHub organization administration. These were originally written as disconnected one-off utility scripts for various client projects over the years and were consolidated into a reusable module in case it might help others.
 
 ## Requirements
 
